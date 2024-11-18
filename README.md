@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me 👋
+I am an electronic and electrical undergraduate at UCL.
 
 <!--
 **yeowokay/yeowokay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
